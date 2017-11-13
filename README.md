@@ -61,9 +61,13 @@ http://www.liaad.up.pt/area/jgama/InfSys2017.pdf 集成学习在流数据分析�
 
 http://docs.w3cub.com/scikit_learn/auto_examples/ensemble/plot_adaboost_hastie_10_2/ Discrete versus Real AdaBoost
 
+https://www.leiphone.com/news/201707/JSAaQzOebhHHKuTN.html 如何用自动机器学习实现神经网络进化 
 
+https://www.leiphone.com/news/201705/NlTc7oObBqh116Z5.html 南京大学俞扬博士万字演讲全文：强化学习前沿（上）
 
+https://github.com/xiahouzuoxin/notes/tree/master/essays 有一些无聊的东西
 
+http://mnews.onlinedown.net/trends/83553.html 微软研院的时空数据分析，很好的资料
 
 
 
