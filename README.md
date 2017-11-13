@@ -77,4 +77,16 @@ https://github.com/nathanntg/adaboost adaboost复杂实现
 
 https://github.com/alinagithub/Adaboost/blob/master/AdaBoost.py 看不懂实现
 
+https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/ 很多典故
+
+http://xxuan.me/2017-03-24-adaboost.html 中文adaboost，有python代码
+
+https://www.zhihu.com/question/29138020 如何自学python 这个厉害 还有南洋理工大学的博士 分享 也很厉害
+
+https://github.com/lijin-THU 还不错，介绍python和ml
+
+http://www.jianshu.com/u/212ef8ed6ac2 爬虫或python必备
+
+
+
 
