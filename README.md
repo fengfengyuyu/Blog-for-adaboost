@@ -49,6 +49,20 @@ https://github.com/vividfree/alphabet 罗维的github，很多内容，我想知
 
 http://txshi-mt.com/2017/08/20/NTUML-7-the-VC-Dimension/ 关于VC维，有点难
 
+http://web.cecs.pdx.edu/~mm/MachineLearningWinter2017/EnsembleLearning.pdf 集成学习示例，比较详细
+
+http://web.cecs.pdx.edu/~mm/MachineLearningSpring2017/EnsembleLearningExerciseSolutions.pdf 上例中计算解释
+
+http://lamda.nju.edu.cn/MainPage.ashx 南大机器学习与数据挖掘研究所网站
+
+https://petolau.github.io/Ensemble-of-trees-for-forecasting-time-series/ 集成学习在电力消费上的预测
+
+http://www.liaad.up.pt/area/jgama/InfSys2017.pdf 集成学习在流数据分析的应用
+
+http://docs.w3cub.com/scikit_learn/auto_examples/ensemble/plot_adaboost_hastie_10_2/ 
+
+
+
 
 
 
