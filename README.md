@@ -33,3 +33,23 @@ https://github.com/luispedro/milk 一款python和c++加速的adaboost软件。
 http://totoharyanto.staff.ipb.ac.id/files/2012/10/Building-Machine-Learning-Systems-with-Python-Richert-Coelho.pdf 和上面是同一个作者。
 
 https://www.zhihu.com/question/23003213 回头要看看python和C+要怎样混合编程。
+
+Nov 13th,2017
+
+https://www.zhihu.com/topic/20035241/hot 关于xgboost的讨论，马超讲了vc维，周在《机器学习》计算学习理论一章里讲到vc、Rademacher复杂度、
+稳定性。马超：而特征的多样性也正是为什么工业界很少去使用 svm 的一个重要原因之一？
+
+https://github.com/TracyMcgrady6 马超的github？
+
+https://www.jiqizhixin.com/articles/2017-11-08-3 为什么XGBoost在机器学习竞赛中表现如此卓越？挪威科技大学 Didrik Nielsen 的硕士论文《使用 XGBoost 的树提升：为什么 XGBoost 能赢得「每一场」机器学习竞赛？（Tree Boosting With XGBoost - Why Does XGBoost Win "Every" Machine Learning Competition?）》
+
+http://www.cs.columbia.edu/~kathy/cs4701/documents/jason_svm_tutorial.pdf 搞了半天，还得弄明白VC维
+
+https://github.com/vividfree/alphabet 罗维的github，很多内容，我想知道怎么写C++？博客也很好，就是乱了一点。
+
+http://txshi-mt.com/2017/08/20/NTUML-7-the-VC-Dimension/ 关于VC维，有点难
+
+
+
+
+
