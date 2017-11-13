@@ -69,5 +69,12 @@ https://github.com/xiahouzuoxin/notes/tree/master/essays 有一些无聊的东�
 
 http://mnews.onlinedown.net/trends/83553.html 微软研院的时空数据分析，很好的资料
 
+https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/ 这里提到boosting确实可以减少方差和偏差。
+
+http://adataanalyst.com/machine-learning/adaboost-python-3/ 介绍了adaboost的python实现
+
+https://github.com/nathanntg/adaboost adaboost复杂实现
+
+https://github.com/alinagithub/Adaboost/blob/master/AdaBoost.py 看不懂实现
 
 
