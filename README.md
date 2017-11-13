@@ -59,7 +59,7 @@ https://petolau.github.io/Ensemble-of-trees-for-forecasting-time-series/ 集成�
 
 http://www.liaad.up.pt/area/jgama/InfSys2017.pdf 集成学习在流数据分析的应用
 
-http://docs.w3cub.com/scikit_learn/auto_examples/ensemble/plot_adaboost_hastie_10_2/ 
+http://docs.w3cub.com/scikit_learn/auto_examples/ensemble/plot_adaboost_hastie_10_2/ Discrete versus Real AdaBoost
 
 
 
