@@ -87,6 +87,13 @@ https://github.com/lijin-THU 还不错，介绍python和ml
 
 http://www.jianshu.com/u/212ef8ed6ac2 爬虫或python必备
 
+Nov 14th,2017
+
+https://www.leiphone.com/news/201709/QuBqR1h6I7yglwbH.html 周志华CAIS大会的演讲
+
+https://www.leiphone.com/news/201703/CC6gwUhEAPuG1kvN.html 周志华gcforest
+
+https://www.douban.com/doulist/3440234/ 台大机器学习基石
 
 
 
