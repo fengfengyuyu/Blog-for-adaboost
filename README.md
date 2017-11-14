@@ -101,3 +101,5 @@ https://pan.baidu.com/s/1qYRMLvY#list/path=%2F 周志华《机器学习》讲义
 
 http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/ 在hadoop上实现mapreduce
 
+https://docs.djangoproject.com/en/1.11/intro/tutorial01/ django练习，完成hello world!
+
