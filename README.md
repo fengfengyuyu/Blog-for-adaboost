@@ -95,5 +95,9 @@ https://www.leiphone.com/news/201703/CC6gwUhEAPuG1kvN.html 周志华gcforest
 
 https://www.douban.com/doulist/3440234/ 台大机器学习基石
 
+http://blog.csdn.net/wzmsltw/article/details/51039928 周志华《机器学习》一些python代码
 
+https://pan.baidu.com/s/1qYRMLvY#list/path=%2F 周志华《机器学习》讲义
+
+http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/ 在hadoop上实现mapreduce
 
