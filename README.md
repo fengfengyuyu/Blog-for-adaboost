@@ -109,6 +109,8 @@ http://decisiontrees.net/decision-trees-and-data-mining-software/ 想找一些�
 
 http://gabrielelanaro.github.io/blog/2016/03/03/decision-trees.html 简洁、清晰
 
+https://github.com/revantkumar/Decision-Tree 这个ID3蛮好
+
 https://github.com/chrisspen/dtree 决策树，复杂一点
 
 http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf 十大算法的论文
