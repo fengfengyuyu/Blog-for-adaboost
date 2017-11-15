@@ -103,3 +103,13 @@ http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-pyt
 
 https://docs.djangoproject.com/en/1.11/intro/tutorial01/ django练习，完成hello world!
 
+Nov 15th, 2017
+
+http://decisiontrees.net/decision-trees-and-data-mining-software/ 想找一些决策树的源码
+
+http://gabrielelanaro.github.io/blog/2016/03/03/decision-trees.html 简洁、清晰
+
+https://github.com/chrisspen/dtree 决策树，复杂一点
+
+http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf 十大算法的论文
+
