@@ -115,3 +115,12 @@ https://github.com/chrisspen/dtree 决策树，复杂一点
 
 http://www.cs.uvm.edu/~icdm/algorithms/10Algorithms-08.pdf 十大算法的论文
 
+Nov 16th, 2017
+
+http://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html 了解一下如何实现EM，这个网站很好，提供了python的计算统计学
+
+https://zhuanlan.zhihu.com/p/28249050 Jensen’s inequality 不等式的理解
+
+
+
+
