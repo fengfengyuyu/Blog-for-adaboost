@@ -135,6 +135,10 @@ http://ai.stanford.edu/~chuongdo/papers/em_tutorial.pdf EM算法普及
 
 http://blog.csdn.net/u011300443/article/details/46763743 解释了上文里有些概率是怎么产生的
 
+http://tinyheero.github.io/2016/01/03/gmm-em.html 写的很好
 
+http://www.math.leidenuniv.nl/~avdvaart/ASC/EM.pdf
+
+https://math.usask.ca/~longhai/teaching/stat812-1409/rdemo/EM_examples.pdf
 
 
