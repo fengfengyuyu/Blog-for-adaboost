@@ -121,6 +121,20 @@ http://people.duke.edu/~ccc14/sta-663/EMAlgorithm.html 了解一下如何实现E
 
 https://zhuanlan.zhihu.com/p/28249050 Jensen’s inequality 不等式的理解
 
+Nov 17th,2017
+
+http://www.ruanyifeng.com/blog/2015/02/make.html 阮一峰的make介绍
+
+http://www.stat.columbia.edu/~gelman/research/unpublished/stan-resubmit-JSS1293.pdf duke大学提到哥大的stan，里面的抽样技术很吸引人
+
+周志华《机器学习》P153 朴素贝叶斯分类器，拉普拉斯修正避免了因训练样本不充分而导致概率估值为零的问题
+
+https://wenku.baidu.com/view/5799a87302768e9951e73890.html 贝叶斯方法介绍 85p
+
+http://ai.stanford.edu/~chuongdo/papers/em_tutorial.pdf EM算法普及
+
+http://blog.csdn.net/u011300443/article/details/46763743 解释了上文里有些概率是怎么产生的
+
 
 
 
