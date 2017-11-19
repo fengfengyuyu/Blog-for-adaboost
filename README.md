@@ -141,4 +141,8 @@ http://www.math.leidenuniv.nl/~avdvaart/ASC/EM.pdf
 
 https://math.usask.ca/~longhai/teaching/stat812-1409/rdemo/EM_examples.pdf
 
+Nov 20th,2017
+
+http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006936.html 讲了一些EM，抄书侠，但是很翔实，不像有些人吹牛
+
 
