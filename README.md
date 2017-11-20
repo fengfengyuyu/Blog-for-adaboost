@@ -147,5 +147,5 @@ http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006936.html 讲了一些EM�
 
 偏差-方差分解说明，泛化能力是由学习算法的能力、数据的充分性以及学习任务本身的难度共同决定的。
 
-\pi
+<a href="https://www.codecogs.com/eqnedit.php?latex=E\left&space;(&space;f;D&space;\right&space;)=&space;bias^{2}\left&space;(&space;x&space;\right&space;)&plus;var\left&space;(&space;x&space;\right&space;)&plus;\varepsilon&space;^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E\left&space;(&space;f;D&space;\right&space;)=&space;bias^{2}\left&space;(&space;x&space;\right&space;)&plus;var\left&space;(&space;x&space;\right&space;)&plus;\varepsilon&space;^{2}" title="E\left ( f;D \right )= bias^{2}\left ( x \right )+var\left ( x \right )+\varepsilon ^{2}" /></a>
 
