@@ -157,3 +157,4 @@ https://www.projectrhea.org/rhea/index.php/MLE_Examples:_Binomial_and_Poisson_Di
 
 https://stats.stackexchange.com/questions/181035/how-to-derive-the-likelihood-function-for-binomial-distribution-for-parameter-es 介绍MLE
 
+https://tech.meituan.com/deep-understanding-of-ffm-principles-and-practices.html 美团技术团队评价FFM
