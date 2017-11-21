@@ -151,3 +151,9 @@ http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006936.html 讲了一些EM�
 
 https://www.codecogs.com/latex/eqneditor.php 在线编辑公式用这个
 
+Nov 21th, 2017
+
+https://www.projectrhea.org/rhea/index.php/MLE_Examples:_Binomial_and_Poisson_Distributions_OldKiwi 介绍MLE，求导有错误
+
+https://stats.stackexchange.com/questions/181035/how-to-derive-the-likelihood-function-for-binomial-distribution-for-parameter-es 介绍MLE
+
