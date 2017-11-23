@@ -163,4 +163,14 @@ https://stats.stackexchange.com/questions/181035/how-to-derive-the-likelihood-fu
 
 https://stackoverflow.com/questions/8936099/returning-multiple-objects-in-an-r-function 怎么用R返回多个对象，用S4的想法挺不错
 
+Nov 23th,2017
+
+https://github.com/ShifuML/shifu 这个架在hadoop yarn的工具好八辈
+
+https://wenku.baidu.com/view/49e82037e518964bcf847c81.html 一些离散型分布的介绍
+
+http://www.jianshu.com/p/38c13be59137 beta-binomial分布，机器学习分布笔记
+
+https://max.book118.com/html/2017/0314/95370569.shtm kumaraswamy binomial分布，和beta-binomial分布一致，都是讨论事件有依赖的情况
+
 
