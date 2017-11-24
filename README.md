@@ -173,4 +173,14 @@ http://www.jianshu.com/p/38c13be59137 beta-binomial分布，机器学习分布�
 
 https://max.book118.com/html/2017/0314/95370569.shtm kumaraswamy binomial分布，和beta-binomial分布一致，都是讨论事件有依赖的情况
 
+Nov 24th,2017
+
+https://github.com/grigio/vim-sublime vim和sublime编辑器
+
+https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-python/ SGD的python实现
+
+《机器学习》中，提到的优化方法有5种，但并没有说怎么选择优化方法，难不成是当时的人自己选择的？
+
+
+
 
