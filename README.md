@@ -199,7 +199,7 @@ https://wenku.baidu.com/view/7e25200d360cba1aa911da28.html GAM模型在车险保
 
 http://chuansong.me/n/1783297842040 SGD作为贝叶斯后验推断方法
 
-https://www2.stat.duke.edu/courses/Fall00/sta216/handouts/diagnostics.pdf duke大学关于fisher scoring的讲解，不是我需要的
+https://www2.stat.duke.edu/courses/Fall00/sta216/handouts/diagnostics.pdf duke大学关于fisher scoring的讲解，不是我需要的，已下载
 
 https://www.researchgate.net/publication/266599562_M_estimation_S_estimation_and_MM_estimation_in_robust_regression M estimation, S estimation, and MM estimation in robust regression 已下载
 
@@ -213,5 +213,31 @@ http://www4.stat.ncsu.edu/~boos/papers/mest6.pdf 已下载
 
 http://dept.stat.lsa.umich.edu/~moulib/emp-proc-notes-2.pdf 这个笔记太难了，已下载
 
+http://data.princeton.edu/wws509/notes 这个不错哦
 
+http://www.math.umd.edu/~bnk/Ch_GLMsld.pdf 时间序列GLM分析，已下载
+
+http://www2.sas.com/proceedings/sugi27/p258-27.pdf 非常好的一篇，调查分析
+
+Scalable estimation strategies based on stochastic approximations: Classical results and new insights 很完整，就是看不懂，已下载
+
+http://www.stat.umn.edu/geyer/5931/mle/glm.pdf 极好的
+
+https://stats.stackexchange.com/questions/176351/implement-fisher-scoring-for-linear-regression 有R代码，要研究一下
+
+https://userpages.umbc.edu/~gobbert/papers/RaimLiuNeerchalMorel2012.pdf 已下载
+
+https://gist.github.com/jtrive84/3517fd79f5959574b49f88cac3bf61ca fisher scoring R script
+
+http://galton.uchicago.edu/~eichler/stat24600/Handouts/l02.pdf 理论
+
+http://www.stats.uwo.ca/faculty/bellhouse/Likelihood_Theory_with_Score_Function.pdf 已下载，极好， R script
+
+http://www.dbs.ifi.lmu.de/%7Etresp/papers/final_nips_fisher.pdf
+
+https://nlp.stanford.edu/manning/courses/ling289/logistic.pdf
+
+http://www.stats.ox.ac.uk/~steffen/teaching/bs2HT9/scoring.pdf 已下载
+
+http://leon.bottou.org/publications/pdf/compstat-2010.pdf 理论
 
