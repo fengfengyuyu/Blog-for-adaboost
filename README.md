@@ -181,6 +181,37 @@ https://www.pyimagesearch.com/2016/10/17/stochastic-gradient-descent-sgd-with-py
 
 《机器学习》中，提到的优化方法有5种，但并没有说怎么选择优化方法，难不成是当时的人自己选择的？
 
+Nov 27th,2017
+
+https://www.quora.com/Whats-the-difference-between-gradient-descent-and-stochastic-gradient-descent 介绍SGD，还不错
+
+https://github.com/airoldilab/sgd 又看到Dustin Tran，这哥么好惊人，airoldilab也好惊人
+
+http://applied.stat.harvard.edu/ airoldilab 众神归位
+
+https://github.com/edwardlib/observations 几个月不看edward，我只能一声“我 call"
+
+https://www.zhihu.com/question/19894595 关于MLE，MAP，EM的各种讨论
+
+https://cosx.org/2011/01/how-does-glm-generalize-lm-fit-and-test 从线性模型到广义线性模型
+
+https://wenku.baidu.com/view/7e25200d360cba1aa911da28.html GAM模型在车险保费定价上的应用，有一个分级的例子
+
+http://chuansong.me/n/1783297842040 SGD作为贝叶斯后验推断方法
+
+https://www2.stat.duke.edu/courses/Fall00/sta216/handouts/diagnostics.pdf duke大学关于fisher scoring的讲解，不是我需要的
+
+https://www.researchgate.net/publication/266599562_M_estimation_S_estimation_and_MM_estimation_in_robust_regression M estimation, S estimation, and MM estimation in robust regression 已下载
+
+https://www.stat.berkeley.edu/~bartlett/courses/2013spring-stat210b/notes/15notes.pdf M_estimation和Z_estimation 有点难
+
+https://socialsciences.mcmaster.ca/magee/761_762/other%20material/M-estimation.pdf 比较理论化，没下载
+
+http://www4.ncsu.edu/~jack/robust_est6.pdf 随机矩阵理论的应用 已下载
+
+http://www4.stat.ncsu.edu/~boos/papers/mest6.pdf 已下载
+
+http://dept.stat.lsa.umich.edu/~moulib/emp-proc-notes-2.pdf 这个笔记太难了，已下载
 
 
 
