@@ -245,3 +245,6 @@ http://leon.bottou.org/publications/pdf/compstat-2010.pdf 理论
 
 https://datascience.stackexchange.com/questions/664/fisher-scoring-v-s-coordinate-descent-for-mle-in-r 比较了fisherScoring和坐标下降法
 
+Nov 28th,2017
+
+http://logos.name/archives/187 讲到一点梯度法和牛顿法
