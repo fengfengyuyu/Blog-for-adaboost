@@ -260,3 +260,6 @@ http://r-survey.r-forge.r-project.org/survey/index.html 这上面有一系列复
 http://www.onedigit.co.uk/content/glm-generalised-linear-model-fisher-information-matrix !
 
 http://statmath.wu.ac.at/courses/heather_turner/glmCourse_001.pdf !
+
+https://baike.baidu.com/item/%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0 对数性质
+
