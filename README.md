@@ -223,7 +223,7 @@ Scalable estimation strategies based on stochastic approximations: Classical res
 
 http://www.stat.umn.edu/geyer/5931/mle/glm.pdf 极好的
 
-https://stats.stackexchange.com/questions/176351/implement-fisher-scoring-for-linear-regression 有R代码，要研究一下，这里有海森矩阵的求逆
+https://stats.stackexchange.com/questions/176351/implement-fisher-scoring-for-linear-regression 有R代码，要研究一下，这里有海森矩阵的求逆 !
 
 https://stats.stackexchange.com/questions/175882/why-fisher-scoring-is-easier-to-compute#comment333067_175882 上面的补充
 
