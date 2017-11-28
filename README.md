@@ -193,13 +193,13 @@ https://github.com/edwardlib/observations 几个月不看edward，我只能一�
 
 https://www.zhihu.com/question/19894595 关于MLE，MAP，EM的各种讨论
 
-https://cosx.org/2011/01/how-does-glm-generalize-lm-fit-and-test 从线性模型到广义线性模型
+https://cosx.org/2011/01/how-does-glm-generalize-lm-fit-and-test 从线性模型到广义线性模型!
 
 https://wenku.baidu.com/view/7e25200d360cba1aa911da28.html GAM模型在车险保费定价上的应用，有一个分级的例子
 
 http://chuansong.me/n/1783297842040 SGD作为贝叶斯后验推断方法
 
-https://www2.stat.duke.edu/courses/Fall00/sta216/handouts/diagnostics.pdf duke大学关于fisher scoring的讲解，不是我需要的，已下载
+https://www2.stat.duke.edu/courses/Fall00/sta216/handouts/diagnostics.pdf duke大学关于fisher scoring的讲解，不是我需要的，已下载!
 
 https://www.researchgate.net/publication/266599562_M_estimation_S_estimation_and_MM_estimation_in_robust_regression M estimation, S estimation, and MM estimation in robust regression 已下载
 
@@ -227,13 +227,13 @@ https://stats.stackexchange.com/questions/176351/implement-fisher-scoring-for-li
 
 https://stats.stackexchange.com/questions/175882/why-fisher-scoring-is-easier-to-compute#comment333067_175882 上面的补充
 
-https://userpages.umbc.edu/~gobbert/papers/RaimLiuNeerchalMorel2012.pdf 已下载
+https://userpages.umbc.edu/~gobbert/papers/RaimLiuNeerchalMorel2012.pdf 已下载!
 
 https://gist.github.com/jtrive84/3517fd79f5959574b49f88cac3bf61ca fisher scoring R script
 
-http://galton.uchicago.edu/~eichler/stat24600/Handouts/l02.pdf 理论，可以仔细看下
+http://galton.uchicago.edu/~eichler/stat24600/Handouts/l02.pdf 理论，可以仔细看下!
 
-http://www.stats.uwo.ca/faculty/bellhouse/Likelihood_Theory_with_Score_Function.pdf 已下载，极好， R script
+http://www.stats.uwo.ca/faculty/bellhouse/Likelihood_Theory_with_Score_Function.pdf 已下载，极好， R script!
 
 http://www.dbs.ifi.lmu.de/%7Etresp/papers/final_nips_fisher.pdf
 
@@ -257,4 +257,6 @@ http://xueshu.baidu.com/s?wd=paperuri%3A%28419032e9dfa8e822500a0b5d8d320a7d%29&f
 
 http://r-survey.r-forge.r-project.org/survey/index.html 这上面有一系列复杂抽样的材料
 
+http://www.onedigit.co.uk/content/glm-generalised-linear-model-fisher-information-matrix !
 
+http://statmath.wu.ac.at/courses/heather_turner/glmCourse_001.pdf !
