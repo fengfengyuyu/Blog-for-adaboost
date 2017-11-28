@@ -248,3 +248,13 @@ https://datascience.stackexchange.com/questions/664/fisher-scoring-v-s-coordinat
 Nov 28th,2017
 
 http://logos.name/archives/187 讲到一点梯度法和牛顿法
+
+http://deeplearning.net/tutorial/logreg.html 用LR方法求解mnist，好厉害
+
+https://journal.r-project.org/archive/2009-2/RJournal_2009-2_Damico.pdf R survey 和 SAS STRATA...比较
+
+http://xueshu.baidu.com/s?wd=paperuri%3A%28419032e9dfa8e822500a0b5d8d320a7d%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.doc88.com%2Fp-1425469281665.html&ie=utf-8&sc_us=2430949782615356742 关于分层GLM
+
+http://r-survey.r-forge.r-project.org/survey/index.html 这上面有一系列复杂抽样的材料
+
+
