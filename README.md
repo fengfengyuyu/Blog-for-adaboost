@@ -263,3 +263,9 @@ http://statmath.wu.ac.at/courses/heather_turner/glmCourse_001.pdf !
 
 https://baike.baidu.com/item/%E5%AF%B9%E6%95%B0%E5%87%BD%E6%95%B0 对数性质
 
+Nov 29th，2017
+
+https://onlinecourses.science.psu.edu/stat504/node/176 The Proportional-Odds Cumulative Logit Model 
+
+https://wenku.baidu.com/view/a914cfb6f705cc175427090b.html 抽样调查_比率估计
+
