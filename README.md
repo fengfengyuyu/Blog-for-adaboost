@@ -269,3 +269,11 @@ https://onlinecourses.science.psu.edu/stat504/node/176 The Proportional-Odds Cum
 
 https://wenku.baidu.com/view/a914cfb6f705cc175427090b.html 抽样调查_比率估计
 
+Dec 3rd，2017
+
+http://www.stat.ufl.edu/~aa/ordinal/R_examples.pdf 
+
+https://rpubs.com/trjohns/survey-ratioreg
+
+https://onlinecourses.science.psu.edu/stat504/node/177
+
